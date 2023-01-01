@@ -1,1 +1,1 @@
-# vue3-app-Nuxt3
+# vue3-app-Nuxt3-pro
